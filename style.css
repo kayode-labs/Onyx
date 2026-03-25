@@ -138,18 +138,6 @@ body {
     grid-template-columns: repeat(4, 1fr);
     gap: 27px;
 }
-/* img for each sector */
-#Days\ num {
-    background-image: url('Days_Num.png');
-    background-size: cover;
-    background-position: center;
-}
-
-#Calories {
-    background-image: url('Calories.png');
-    background-size: cover;
-    background-position: center;
-}
 
 #Sleep\ hrs {
     background-image: url('Sleep_hrs.png');
